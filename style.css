@@ -1,5 +1,5 @@
 :root {
-    
+
     --cor-primaria: #183C63;
     --cor-secundaria: #3782d2;
     --cor-fundo: #ffffff;
@@ -11,12 +11,12 @@
 }
 
 .tema-escuro {
-    --cor-primaria: #0d1b2a;
-    --cor-secundaria: #5da9e9;
-    --cor-fundo: #151428;
+    --cor-primaria: #A6CEFE;
+    --cor-secundaria: #98caff;
+    --cor-fundo: #0f172a;
     --cor-texto: #ffffff;
-    --cor-contraste: #2b2d42;
-    --cor-botao: #3782d2;
+    --cor-contraste: #1e293b;
+    --cor-botao:#151428; ;
 }
 
 .tema-escuro a {
