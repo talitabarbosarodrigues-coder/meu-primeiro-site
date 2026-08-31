@@ -12,6 +12,7 @@ function botaoClicado() {
         texto.textContent--;
         curtiufalse
     }
+
 }
 })
 

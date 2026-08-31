@@ -19,7 +19,7 @@
     --cor-fundo: #0f172a;
     --cor-texto: #ffffff;
     --cor-contraste: #1e293b;
-    --cor-botao:#151428; ;
+    --cor-botao:#151428; 
 }
 
 .tema-escuro a {
@@ -33,11 +33,12 @@
 .tema-escuro header p {
     color: var(--cor-contraste);
 }
-
-body {
+    body {
     max-width: 100vw;
     font-family: var(--fonte-texto);
     margin: 0;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
 }
 
 header {
