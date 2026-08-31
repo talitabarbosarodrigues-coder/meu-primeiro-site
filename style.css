@@ -58,6 +58,10 @@ img {
     font-weight: bold;
 }
 
+.tema-escuro .btn-tema-escuro {
+    background-color: var(--cor-secundaria);
+}
+
 main {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
